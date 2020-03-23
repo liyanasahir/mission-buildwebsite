@@ -1,6 +1,6 @@
 # Mission: Build Website
 
-#### Context
+### Context
 Dear girls, 
 You may have seen that SHE is conducting a website making contest. We know that some of you have already jumped right in and begun your work, based on the questions we’ve been receiving. We also know that some of you would like to take part, don’t really know how to create a website - afterall, some of you may have joined exactly with the hopes of learning to build something like this, right?
 
@@ -21,3 +21,25 @@ But wait, before you join our group, a few things to keep in mind:
 * You’re expected to respond proactively so that we may know that what we have planned is working out!
 
 Ready to get started? Join here.
+
+### Structure
+
+1) We’ll be sending the resources/tasks for the day in the morning at 9am.  You needn’t send any response (like thumbs up) for this, because we want as many people to view it without clutter as possible. 
+
+2) However, feel free to send any questions/doubts you may have at any point in the group. We’ll try our best to answer them quickly. You can also answer each other’s doubts! :)
+
+3) You can study/work on the tasks at your convenience throughout the day. 
+
+4) Do come online between 7pm to 8pm to participate in that day’s review.
+
+#### Day 0: Setting Up the Environment
+
+Before you start working a good text editor is a must-have on any computer, in any operating system. A text editor is great for managing code of any language or to even just write down quick notes.
+
+You can install any one of the 3 text editors listed here, if you don’t have one already. Just visit the website and follow instructions to download and install - 
+
+Visual Studio Code : https://code.visualstudio.com/ (has the simplest interface)
+
+Atom : https://atom.io/
+
+Sublime Code : https://www.sublimetext.com/
