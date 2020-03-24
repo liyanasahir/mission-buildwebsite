@@ -1,7 +1,14 @@
 # Mission: Build Website
+## Tasks so far
+
+* (Day 1)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day1.md]
+* (Day 2)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day2.md]
+* (Day 3)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day3.md]
+* (Day 4)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day4.md]
+* (Day 5)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day5.md]
 
 ### Context
-Dear girls, 
+
 You may have seen that SHE is conducting a website making contest. We know that some of you have already jumped right in and begun your work, based on the questions we’ve been receiving. We also know that some of you would like to take part, don’t really know how to create a website - afterall, some of you may have joined exactly with the hopes of learning to build something like this, right?
 
 So we’ve decided that with ample time in our hands right now, we could introduce a small online boot-camp to streamline all those who are interested in learning how to build a website, but are clueless about where to get started. 
