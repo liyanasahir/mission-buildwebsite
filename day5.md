@@ -35,5 +35,13 @@ Just quickly watch the video to understand concepts. More important part is to t
 
 If you already know some programming language - it would be very easy for you to get started here. Otherwise, it’s still cool. The whole purpose of the tutorials is to build a strong base for everyone, regardless of previous experience. 
 
+## So in short - 
+
+1) If you haven't been able to keep up with everything so far - Use the github link to catch up
+
+2) If you have finished task 1 - please make an attempt on task 2 and send screenshot here + upload the code on your github and send it to me
+
+3) If you've done both - and only if you have done both - go onto Javascript
+
 
  
