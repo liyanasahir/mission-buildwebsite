@@ -1,4 +1,4 @@
-#Day 5
+# Day 5
 
 First off, kudos to all of you for coming this far. Though this group took off when we were a lot more clear about the future and just wanted to make use of the time to learn something, we are currently at a time where there is so much uncertainty about what is to happen next or when classes and other things would go back to normal. 
 
