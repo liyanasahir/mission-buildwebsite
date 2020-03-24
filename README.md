@@ -7,7 +7,7 @@
 * [Day 4](https://github.com/liyanasahir/mission-buildwebsite/blob/master/day4.md)
 * [Day 5](https://github.com/liyanasahir/mission-buildwebsite/blob/master/day5.md)
 
-### Context
+## Context
 
 You may have seen that SHE is conducting a website making contest. We know that some of you have already jumped right in and begun your work, based on the questions we’ve been receiving. We also know that some of you would like to take part, don’t really know how to create a website - afterall, some of you may have joined exactly with the hopes of learning to build something like this, right?
 
@@ -29,7 +29,7 @@ But wait, before you join our group, a few things to keep in mind:
 
 Ready to get started? Join here.
 
-### Structure
+## Structure
 
 1) We’ll be sending the resources/tasks for the day in the morning at 9am.  You needn’t send any response (like thumbs up) for this, because we want as many people to view it without clutter as possible. 
 
@@ -39,7 +39,7 @@ Ready to get started? Join here.
 
 4) Do come online between 7pm to 8pm to participate in that day’s review.
 
-#### Day 0: Setting Up the Environment
+## Day 0: Setting Up the Environment
 
 Before you start working a good text editor is a must-have on any computer, in any operating system. A text editor is great for managing code of any language or to even just write down quick notes.
 
