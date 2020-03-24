@@ -1,11 +1,11 @@
 # Mission: Build Website
 ## Tasks so far
 
-* (Day 1)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day1.md]
-* (Day 2)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day2.md]
-* (Day 3)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day3.md]
-* (Day 4)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day4.md]
-* (Day 5)[https://github.com/liyanasahir/mission-buildwebsite/blob/master/day5.md]
+* [Day 1](https://github.com/liyanasahir/mission-buildwebsite/blob/master/day1.md)
+* [Day 2](https://github.com/liyanasahir/mission-buildwebsite/blob/master/day2.md)
+* [Day 3](https://github.com/liyanasahir/mission-buildwebsite/blob/master/day3.md)
+* [Day 4](https://github.com/liyanasahir/mission-buildwebsite/blob/master/day4.md)
+* [Day 5](https://github.com/liyanasahir/mission-buildwebsite/blob/master/day5.md)
 
 ### Context
 
