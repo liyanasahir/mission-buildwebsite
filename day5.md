@@ -23,7 +23,7 @@ Don’t feel bad about sending submissions late. Your questions for old topics a
 
 You might never get a time like this ever again to get started. 
 
-### “I’m done with both tasks!”_*
+### “I’m done with both tasks!”
 
 Good job!
 You can make use of this extra time to learn Javascript. 
