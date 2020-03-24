@@ -15,6 +15,8 @@ Before you get there, it’s essential that you build some confidence and comfor
 
 *Did you take a small pause on day 1 or day 2 and then realized by the time you got back to the group that everyone had finished so much, that you were severely lagging behind and could never hope to catch up?*
 
+Yeah, that's not true. You can still catch up, the first task is easier than you realise!
+
 Refer to the different files in [this folder](https://github.com/liyanasahir/mission-buildwebsite) to catch up. 
 
 Take it day by day.
