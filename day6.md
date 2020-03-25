@@ -7,7 +7,7 @@ When I created this group, the main objective was to ensure that you
 * dedicate a bit of time every day to get better than you were yesterday using those resources
 * .. and become capable of **building a website within a week**.
 
-Based on your submissions in the past week, I feel this objective has been more or successful - all kudos to you. *You taught yourself what was needed to get till here*. 
+Based on your submissions throughout the past days, I feel this objective has been more or successful - all kudos to you. *You taught yourself what was needed to get till here*. 
 
 Personally, I think everyone should know a little bit of HTML and CSS, even if they have no interest in pursuing web development further. 
 
