@@ -34,9 +34,9 @@ You can also add CSS snippets that are readily available online, like the ones l
 
 ![](https://i2.wp.com/codemyui.com/wp-content/uploads/2018/10/CSS-Masonry-Grid-for-Image-Gallery.gif?w=880&ssl=1)
 
-Or do you just want your buttons to look less like boring solids and more dynamic? [This snippet](https://codemyui.com/gradient-buttons-with-glint-on-hover/) will help you out. 
+Or do you just want your buttons to look less like boring solids and more dynamic? [This snippet](https://codemyui.com/gradient-buttons-with-glint-on-hover/) will help you do that. 
 
-<center>![](https://i2.wp.com/codemyui.com/wp-content/uploads/2018/09/Gradient-Buttons-With-Glint-on-Hover.gif?w=500&ssl=1)</center>
+![](https://i2.wp.com/codemyui.com/wp-content/uploads/2018/09/Gradient-Buttons-With-Glint-on-Hover.gif?w=880&ssl=1)
 
 To add such snippets, go to the page, scroll down and click 'Run Pen'. On the top left of this object, you'll find the HTML & CSS Code. Copy them into your existing project and place them at the required place inside the body tags in your existing html file. You can copy paste directly into your existing css file, but make sure it doesn't clash with any of your other css rules. 
 
@@ -70,7 +70,7 @@ You can refer to [this page](https://github.com/liyanasahir/mission-buildwebsite
 ## Tip 2
 
 Look at some of your favorite websites online for inspiration. Right click and select 'Inspect Element' on any page, an interactive console should open up and you can see all of the HTML and CSS used for that page. Try making changes in the console and see how it instantly reflects on your screen. 
-> Fun activity: go to ktu.edu and change the text on the latest notification to read that the results have been released. Take a screenshot and send it to your friends. (No, don't come after me if your classmates decide to kill you - this self isolation period would protect you) (But seriously - send it in our group too, if you figure out how to do this!)
+> Fun activity: go to ktu.edu and change the text on the latest notification to read that the results have been released. Take a screenshot and send it to your friends. (No, don't come after me if your friends decide to end you - this self isolation period should help you keep safe for now.) But seriously - do send it in our group, if you figure out how to do this!
 
 ## One last word!
 
