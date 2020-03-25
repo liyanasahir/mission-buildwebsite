@@ -63,9 +63,10 @@ If you'd like to prepare a website on SHE, you may add sections for
 * Links to relevant sites (like Lean In, etc)
 * Contact details
 * Team behind SHE 
-.. and so on! It's not necessary that you include all of this. You can even have other sections of your choice. 
 
-You can refer to [this page](https://github.com/liyanasahir/mission-buildwebsite/blob/master/she.md) for information about SHE. 
+.. and so on! It's not necessary that you include all of this. You can even have other sections of your choice. You can refer to [this page](https://github.com/liyanasahir/mission-buildwebsite/blob/master/she.md) for information about SHE. 
+
+(I'd really suggest you do this because regardless of whichever website ends up winning, you can still get a chance to be a part of the official SHE Web Development Team!)
 
 ## Tip 2
 
