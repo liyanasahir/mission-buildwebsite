@@ -1,6 +1,23 @@
 # About SHE
 
+## Objectives
+
+### Short Term
+
+* To promote diverse opportunity to develop technical capabilities and talents among female students
+* To develop student leaders who will be the torch bearers for the second phase
+* To initiate a move for women empowerment in GCE Kannur
+
+### Long Term
+
+* To encourage women engineers to take up leadership roles
+* To promote greater enrolment of girls in engineering
+
 ## Background
+
+> * 171 Engineering colleges with an enrolment ratio of girls - 36%
+> * GCE Kannur catering to the northern malabar region of Kerala - 51% of the annual intake of UG in GCEK are girls!
+> * The percentage of women drops from 30% to 8% in a span of 10 years after graduation
 
 Government College of Engineering Kannur has a history of almost thirty years. The college admits 300 students in five branches of study every year and over half of the enrolled are girls and this has remained steady over the years. The majority female students admitted in the past and present have displayed steadfast academic performance and have many a times outnumbered their male counterparts in securing academic laurels such as university ranks. However the unpleasant truth is that a good number of these female academic achievers fail to shine later on in their career and number of alumnae who dwell in the lead roles in jobs are only handful. This dire reality has forced us to put some serious thoughts on the puzzling question “Why So Few?”.
 
@@ -19,3 +36,7 @@ A workshop on Resume Building was conducted in association with the Rethink Foun
 The flagship event of the first phase of SHE was 'Lead the Leaders'. The two day residential camp for selected 30 SHE senior members aimed to inculcate the much needed skills for professional excellence as well as personal competence. Ultimately, the program sought to mentor the attendees to become leaders for SHE, who would go on to mould the junior members.
 
 The overwhelming response to the activities of SHE at GCEK has clearly brought out the growing need for extending similar programs to other technical colleges, as well as the need to spread women empowerment for building an inclusive culture.
+
+### Mode of Operation
+
+The coordinators of SHE  program have well identified the value of our resourceful  alumni and  have ensured their  fruitful participation  in gathering suggestions and  information. The other promising contributors to the program are the teaching fraternity of GCEK ,  resource persons from external agencies and  experts from different walks of life. The SHE program also seeks all the support from PTA and the HRD Cell of GCEK
