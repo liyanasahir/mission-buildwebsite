@@ -36,7 +36,7 @@ You can also add CSS snippets that are readily available online, like the ones l
 
 Or do you just want your buttons to look less like boring solids and more dynamic? [This snippet](https://codemyui.com/gradient-buttons-with-glint-on-hover/) will help you out. 
 
-![](https://i2.wp.com/codemyui.com/wp-content/uploads/2018/09/Gradient-Buttons-With-Glint-on-Hover.gif?w=880&ssl=1)
+![](https://i2.wp.com/codemyui.com/wp-content/uploads/2018/09/Gradient-Buttons-With-Glint-on-Hover.gif?w=440&ssl=1)
 
 To add such snippets, go to the page, scroll down and click 'Run Pen'. On the top left of this object, you'll find the HTML & CSS Code. Copy them into your existing project and place them at the required place inside the body tags in your existing html file. You can copy paste directly into your existing css file, but make sure it doesn't clash with any of your other css rules. 
 
