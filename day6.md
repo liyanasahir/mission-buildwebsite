@@ -49,7 +49,7 @@ If you choose to add snippets like these in your project, do make note of its so
 ## Making your Submission
 
 1. Upload your site into Github and host it using github pages. This is different from just uploading your files to  Github. See how you can do that [here](https://youtu.be/8hrJ4oN1u_8?t=330). 
-2. Make sure your file is initalized with a ReadMe. Mention the snippets you have referred here. If you've added anything new that we haven't talked about in the group before, mention that too. (If you're not sure how to edit a ReadMe file, please feel free to say so in our group). ([Read This.](https://github.com/liyanasahir/mission-buildwebsite/blob/master/creatingREADME.md))
+2. Make sure your file is initalized with a ReadMe. Mention the snippets you have referred here. If you've added anything new that we haven't talked about in the group before, mention that too. ([Read This.](https://github.com/liyanasahir/mission-buildwebsite/blob/master/creatingREADME.md))
 3. Screenshot your website and send it to our group! You will be given a form in which you can send the link to your website, don't send it personally for now. 
 
 Deadline for submission in the form is **28th March, 12:00pm.**
