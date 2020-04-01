@@ -43,8 +43,7 @@ What we have covered in the past week is the most essential aspect of front-end 
 
 **Tired of designing and want to move onto building a full on web application?** If there's one course anyone interested in web development should take, its [IMAD](https://www.youtube.com/watch?v=zCJuaI51Oek&list=PLJ6vobRc0TSIZS7r0eKYfJ2HF95NGKY5s) (Introduction to Modern Application Development). It was crafted by alumni and faculty of IIT Madras, and is really comprehensive - you quickly get onto building your apps, complete with database and everything. You can get started on this course with the knowledge you have now. Take a look at the course website(https://www.imad.tech/) to know more, but don't wait till they roll out a new course as you can quickly get started using the youtube links provided. 
 
-
-
+If you choose to take any of the above routes, do let me know. Stay in touch! :)
 
 
 
